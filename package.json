@@ -1,0 +1,16 @@
+{
+  "name": "sitebase2-parcel",
+  "version": "0.0.1",
+  "main": "index.html",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": "https://github.com/kccnma/sitebase2-parcel",
+  "author": "kccnma <gargiulo@hawaii.edu>",
+  "license": "MIT",
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "sass": "^1.26.2"
+  }
+}

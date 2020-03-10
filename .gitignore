@@ -1,0 +1,9 @@
+#build
+# dist/
+
+# Dependency directories
+node_modules/
+.cache
+
+# Mac files
+.DS_Store
