@@ -1,7 +1,7 @@
 # sitebase4-parcel
 A SASS (SCSS) variation of [Sitebase](https://github.com/kccnma/sitebase/), a minimal HTML + CSS + JS base front-end framework for simple web site projects, pre-setup and ready to be compiled via [Parcel]((https://parceljs.org/)).
 
-[View demo](https://kccnma.github.io/sitebase4-parcel/)
+[View demo](https://kccnma.github.io/sitebase4-parcel/dist/)
 
 ## Install Instructions: 
 
