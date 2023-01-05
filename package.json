@@ -10,7 +10,7 @@
   "author": "kccnma <gargiulo@hawaii.edu>",
   "license": "MIT",
   "devDependencies": {
-    "cssnano": "^4.1.10",
+    "cssnano": "^5.1.14",
     "parcel": "^2.8.2",
     "sass": "^1.26.2"
   }
